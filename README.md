@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/CptSOHEIL/CptSOHEIL/blob/main/CptSOHEIL_Banner.png" alt="CptSOHEIL Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/CptSOHEIL/CptSOHEIL/main/ChatGPT%20Image%20Oct%2021%2C%202025%2C%2010_00_04%20PM.png" alt="CptSOHEIL Banner" width="100%">
 </p>
+
 # 👋 Hi, I’m Soheil Modabery Nia  
 
 🎓 **Computer Engineer** | 💻 **Python Developer** | 🤖 **AI & Web Enthusiast**
