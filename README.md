@@ -37,11 +37,34 @@ I enjoy building intelligent systems, automation tools, and scalable web platfor
 ---
 
 ## 📫 Contact Me
-
 📧 **soheilmodabery@gmail.com**  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/alireza-modabery-nia-23787638b/)  
+💼 [**LinkedIn**](https://www.linkedin.com/in/alireza-modabery-nia-23787638b/)  
 🌐 [**Karino4u.ir**](https://karino4u.ir)
 
 ---
+---
 
-⭐ *“Building tools that bridge innovation and reliability.”*
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CptSOHEIL&show_icons=true&theme=radical" alt="CptSOHEIL's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CptSOHEIL&layout=compact&theme=radical" height="165" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CptSOHEIL&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CptSOHEIL&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile views" />
+</p>
+
+
+## 🧠 Fun Fact
+> “Every line of code is a step closer to innovation.” 🚀
