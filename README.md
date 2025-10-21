@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/CptSOHEIL/CptSOHEIL/blob/main/CptSOHEIL_Banner.png" alt="CptSOHEIL Banner" width="100%">
+</p>
 # 👋 Hi, I’m Soheil Modabery Nia  
 
 🎓 **Computer Engineer** | 💻 **Python Developer** | 🤖 **AI & Web Enthusiast**
